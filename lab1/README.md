@@ -3,7 +3,7 @@
 
 __PLAIN TEXT:__ thequickbrownfoxjumpsoverthirteenlazydogs
 
-__KEY: 14__
+__KEY: 12__ (Plain text was 12 letter forwarded.)
 
 Here,we looped through the cipher text for different values of K=1 to K=25.
 
